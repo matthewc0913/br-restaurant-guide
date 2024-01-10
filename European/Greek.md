@@ -2,7 +2,8 @@
 ## European --> Greek
 ---
 Select a restaurant:
-## [Bayridge Sushi](http://www.brsushi.com/)
+## [Omonia Cafe](https://omoniacafe.com/bayridge/)
+## [Something Greek](https://omoniacafe.com/bayridge/)
 ---
 [Back to European](european.md)
 [Start Over](../home.md)
