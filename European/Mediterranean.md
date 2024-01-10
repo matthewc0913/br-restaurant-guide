@@ -2,7 +2,7 @@
 ## European --> Mediterranean
 ---
 Select a restaurant:
-## [Bayridge Sushi](http://www.brsushi.com/)
+## [TanoreenLe Sajj](http://www.brsushi.com/)
 ---
 [Back to European](european.md)
 [Start Over](../home.md)
